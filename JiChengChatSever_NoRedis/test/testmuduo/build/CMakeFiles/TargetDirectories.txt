@@ -1,0 +1,3 @@
+/home/qzw/code/JiChengChatSever/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/qzw/code/JiChengChatSever/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/qzw/code/JiChengChatSever/testmuduo/build/CMakeFiles/server.dir

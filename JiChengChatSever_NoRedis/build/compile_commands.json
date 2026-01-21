@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/chatserver.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/chatserver.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/chatservice.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/chatservice.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/main.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/main.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/main.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/db/db.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/db/db.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/model/UserModel.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/model/UserModel.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/model/UserModel.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/model/friendModel.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/model/friendModel.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/model/friendModel.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/model/groupmodel.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/model/groupmodel.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/model/offlinemessagemodel.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/chatServer.dir/redis/redis.cpp.o -c /home/qzw/code/JiChengChatSever/src/server/redis/redis.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/qzw/code/JiChengChatSever/build/src/client",
+  "command": "/usr/bin/g++   -I/home/qzw/code/JiChengChatSever/include -I/home/qzw/code/JiChengChatSever/include/server -I/home/qzw/code/JiChengChatSever/include/server/db -I/home/qzw/code/JiChengChatSever/include/server/model -I/home/qzw/code/JiChengChatSever/include/server/redis -I/home/qzw/code/JiChengChatSever/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/qzw/code/JiChengChatSever/src/client/main.cpp",
+  "file": "/home/qzw/code/JiChengChatSever/src/client/main.cpp"
+}
+]
